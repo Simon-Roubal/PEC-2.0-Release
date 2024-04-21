@@ -8,5 +8,5 @@ Bez potřebného hardwaru jej není možné použít.
 
 ## Instalace
 - Pro instalaci je potřeba stáhnout celou složku PEC 2.0 Instaler
-- Následně se spustí setup.exe
+- Následně spusťte setup.exe
 - Nainstalovanou aplikaci lze najít v nabídce Start ve složce PEC 2.0

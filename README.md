@@ -7,6 +7,6 @@ odporové pece na VŠB Ostrava.
 Bez potřebného hardwaru jej není možné použít.
 
 ## Instalace
-- Pro instalaci je potřeba stáhnout celou složku PEC 2.0 Instaler
+- Pro instalaci je potřeba stáhnout celou složku PEC 2.0
 - Následně spusťte setup.exe
 - Nainstalovanou aplikaci lze najít v nabídce Start ve složce PEC 2.0
